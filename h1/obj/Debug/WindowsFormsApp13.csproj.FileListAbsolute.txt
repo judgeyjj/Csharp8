@@ -1,0 +1,10 @@
+E:\Visual Studio 2019\C#\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+E:\Visual Studio 2019\C#\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+E:\Visual Studio 2019\C#\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+E:\Visual Studio 2019\C#\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
